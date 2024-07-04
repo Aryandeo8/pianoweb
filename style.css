@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    background-color: #0e7b55;
+}
+h1 {
+    font-size: 4rem;
+    color: #DBEDF3;
+    font-family: "Playwrite US Modern", cursive;
+    text-shadow: 3px 0 #6a3879;
+}
+footer {
+    color: #DBEDF3;
+    font-family: "Playwrite US Modern", cursive;
+    margin-top: 50px ;
+}
+.set {
+    margin: 10% auto;
+}
+  
+.pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+  
+.pianokey {
+    outline: none;
+    border: 10px solid #65c1c1;
+    font-size: 5rem;
+    font-family: "Playwrite US Modern", cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 black;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+}
+.b{
+    background-color: black;
+    color: #1c2c87;
+    text-shadow: 3px 0 rgb(250, 244, 244);
+}
+
+  
